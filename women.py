@@ -5,7 +5,7 @@ import duckdb
 import scipy
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
-
+# go
 # Read and load data 
 df = pd.read_csv("C:/Users/lenovo/Downloads/nwsl-team-stats.csv", sep = ',')
 df = pd.DataFrame(df)
